@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:800/0*hfcOIGR7ni8uoJZQ.jpg" alt="Your Image" width="200" height="200" />
+  <img src="https://your-image-url-here.jpg" alt="Your Image" width="200" height="200" />
 </p>
 
 <h1 align="center">
@@ -44,8 +44,24 @@
   </a>
 </p>
 
+<h2 align="center">My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bipinyct" alt="GitHub Stats" style="width: 700px; height: auto;" />
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bipinyct&show_icons=true&theme=radical" alt="Bipin's GitHub stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bipinyct&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
+  </tr>
+</table>
+
+<h2 align="center">Snake Game</h2>
+
 <div align="center">
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bipinyct/bipinyct/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
@@ -67,18 +83,3 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+Get+Connected;" />
 </h1>
-
-<h2 align="center">My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bipinyct" alt="GitHub Stats" style="width: 700px; height: auto;" />
-</p>
-
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=bipinyct&show_icons=true&theme=radical" alt="Bipin's GitHub stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bipinyct&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
-  </tr>
-</table>
