@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://your-image-url-here.jpg" alt="Your Image" width="200" height="200" />
+  <img src="https://komarev.com/ghpvc/?username=bipinyct&color=brightgreen" alt="Profile Views" />
 </p>
 
 <h1 align="center">
@@ -11,6 +11,7 @@
   I specialize in designing seamless, user-centric experiences and implementing efficient, secure backend solutions. Constantly striving to expand my skills, I thrive on tackling complex challenges and delivering clean, reliable code.
   Explore my <b>GitHub profile</b>—a space where innovation meets functionality, and every bug is an opportunity for growth!
 </h3>
+<br/>
 
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
@@ -21,10 +22,11 @@
   <a href="https://leetcode.com/u/bipinyct/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="bipinyct" height="150" width="150" /></a>
 </p>
 <p align="center">
-  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/bipinyct?theme=dark&font=Nunito" />  
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/bipinyct?theme=dark&font=Nunito" />
 </p>
+<br/>
 
-<h2 align="center">Coding Profiles</h2> 
+<h2 align="center">Coding Profiles</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/bipinyct/">
@@ -32,11 +34,11 @@
   </a>
 </p>
 
-<h2 align="center">Languages-Frameworks-Tools</h2> 
+<h2 align="center">Languages-Frameworks-Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,expressjs,mongodb,mysql&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,expressjs,mongodb,mysql&theme=light" alt="My Skills" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
@@ -44,34 +46,19 @@
   </a>
 </p>
 
-<h2 align="center">My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bipinyct" alt="GitHub Stats" style="width: 700px; height: auto;" />
-</p>
-
-<br/>
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=bipinyct&show_icons=true&theme=radical" alt="Bipin's GitHub stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bipinyct&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
-  </tr>
-</table>
-
-<h2 align="center">Snake Game</h2>
-
 <div align="center">
+  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bipinyct/bipinyct/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
-<h2 align="center">Socials</h2> 
+<h2 align="center">Socials</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/bipinyct" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
+  
   <a href="https://www.linkedin.com/in/bipin-singh-24a9b0226" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
@@ -83,3 +70,17 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Let's+Get+Connected;" />
 </h1>
+
+<h2 align="center">My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bipinyct" alt="GitHub Stats" style="width: 700px; height: auto;" />
+</p>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=bipinyct&show_icons=true&theme=radical" alt="Bipin's GitHub stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bipinyct&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
+  </tr>
+</table>
