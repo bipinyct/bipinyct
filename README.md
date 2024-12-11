@@ -1,12 +1,14 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=bipinyct&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zeolee01&color=brightgreen" alt="Profile Views" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bipin+Singh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bipin+Singh;" />
 </h1>
 
-<h3 align="left">
+<h3 align="left"> Problem Solver🚀 | Full Stack Developer🕸️ </h3>
+  <br>
+  <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
   I’m a passionate <b>Full Stack Developer</b> with hands-on experience in building scalable and impactful web applications. My journey with React (my go-to tool for intuitive and dynamic UIs) has been exciting, and I love solving challenging <b>Data Structures and Algorithms (DSA)</b> problems—400+ solved and counting!  
   I specialize in designing seamless, user-centric experiences and implementing efficient, secure backend solutions. Constantly striving to expand my skills, I thrive on tackling complex challenges and delivering clean, reliable code.
   Explore my <b>GitHub profile</b>—a space where innovation meets functionality, and every bug is an opportunity for growth!
