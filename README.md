@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=bipinyct&color=brightgreen" alt="Profile Views" />
+  <img src="https://miro.medium.com/v2/resize:fit:800/0*hfcOIGR7ni8uoJZQ.jpg" alt="Your Image" width="200" height="200" />
 </p>
 
 <h1 align="center">
@@ -11,7 +11,6 @@
   I specialize in designing seamless, user-centric experiences and implementing efficient, secure backend solutions. Constantly striving to expand my skills, I thrive on tackling complex challenges and delivering clean, reliable code.
   Explore my <b>GitHub profile</b>—a space where innovation meets functionality, and every bug is an opportunity for growth!
 </h3>
-<br/>
 
 <h2 align="center">Leetcode Info</h2>  
 <p align="center">
@@ -22,11 +21,10 @@
   <a href="https://leetcode.com/u/bipinyct/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="bipinyct" height="150" width="150" /></a>
 </p>
 <p align="center">
-  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/bipinyct?theme=dark&font=Nunito" />
+  <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/bipinyct?theme=dark&font=Nunito" />  
 </p>
-<br/>
 
-<h2 align="center">Coding Profiles</h2>
+<h2 align="center">Coding Profiles</h2> 
 
 <p align="center">
   <a href="https://leetcode.com/u/bipinyct/">
@@ -34,11 +32,11 @@
   </a>
 </p>
 
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center">Languages-Frameworks-Tools</h2> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,expressjs,mongodb,mysql&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,expressjs,mongodb,mysql&theme=light" alt="My Skills" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
@@ -52,13 +50,12 @@
   <br/><br/><br/>
 </div>
 
-<h2 align="center">Socials</h2>
+<h2 align="center">Socials</h2> 
 
 <p align="center">
   <a href="https://www.instagram.com/bipinyct" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
-  
   <a href="https://www.linkedin.com/in/bipin-singh-24a9b0226" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" style="width: 40px; height: 40px; display: inline-block; margin-right: 10px;" />
   </a>
@@ -76,6 +73,7 @@
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=bipinyct" alt="GitHub Stats" style="width: 700px; height: auto;" />
 </p>
+
 <br/>
 
 <table>
